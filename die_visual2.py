@@ -47,6 +47,6 @@ hist.y_title = 'Frequency of Result'
 
 hist.add('D6 1', frequencies_1)
 hist.add('D6 2', frequencies_2)
-hist.render_to_file('dice_visual.svg')
+hist.render_to_file('die_visual2.svg')
 print('Arquivo die_visual2.svg criado!')
 
